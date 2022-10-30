@@ -1,7 +1,21 @@
 # Microservices with SpringBoot
 
+[Intro to webservices](#intro-to-webservices)
 
-* Proxy with Feign
+
+## Intro to webservices
+
+Web service - w3c defenition - software system designed to support interoperable machine-to-machine interaction over the network
+
+3 keys:
+- designed for application-to-aplication interaction
+- should be interoperable - not platform dependent
+- should allow communication over the network
+
+
+
+
+* Proxy with Feig
 * Naming Server Eureka
 * Load Balance Feigh + Eureka
 * Gateway
